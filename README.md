@@ -3,8 +3,8 @@
 I am learning to code from scratch. Started August 4, 2026.
 
 ## What's in here
-- '00-hello-github/' - my first web page
-- '01-html-css-course' - lessons from my HTML & CSS course
+- `00-hello-github/` - my first web page
+- `01-html-css-course` - lessons from my HTML & CSS course
 
 ## Currently Learning
 - HTML
